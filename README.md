@@ -8,7 +8,7 @@
     <img src='https://img.shields.io/badge/gitlab-white?logo=gitlab&logoColor=orange&style=for-the-badge', alt='Gitlab'/>
     </a>
     <a href='https://tonviewer.com/UQCCUre08Opa3u2OkALTHcb0dboE-FUnkyoOqJVTO1h5HCKF'>
-      <img src='https://img.shields.io/badge/ton-white?logo=ton&logoColor=blue&style=for-the-badge' alt='The Open Network'/>
+      <img src='https://img.shields.io/badge/ton-lightblue?logo=ton&logoColor=blue&style=for-the-badge' alt='The Open Network'/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=x1ag&style=flat-square&color=blue" alt=""/>
