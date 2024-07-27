@@ -7,6 +7,6 @@
     <a href= 'https://gitlab.com/X1ag'>
     <img src='https://img.shields.io/badge/gitlab-white?logo=gitlab&logoColor=orange&style=for-the-badge', alt='Gitlab'/>
     </a>
-    <img src="https://komarev.com/ghpvc/?username=x1ag&style=flat-square&color=blue" alt=""/>
   </div>
+  <img src="https://komarev.com/ghpvc/?username=x1ag&style=flat-square&color=blue" alt=""/>
 </div>
