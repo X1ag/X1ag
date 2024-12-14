@@ -1,14 +1,9 @@
 <div id="header" align="center">
   <img src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXk3MnlqYTMwd3pzbzQ3c2Fkd2F1aWQxa3Rkbmt5dXh3dXUyaTRidCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif' width='200'/>
   <p align="center">
+    
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=X1ag&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark&show_icons=true&cache_seconds=21600" alt="GitHub Stats">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=X1ag&theme=dark&mode=weekly" alt="GitHub Streak">
   </a>
 </p>
 
