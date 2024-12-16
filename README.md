@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=An0nX&show=reviews,prs_merged&theme=dark&show_icons=true&cache_seconds=21600" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=X1ag&show=reviews,prs_merged&theme=light&show_icons=true&cache_seconds=21600" alt="GitHub Stats">
   </a>
 </p>  
   <div id='badges'>
