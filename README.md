@@ -1,9 +1,5 @@
 <div id="header" align="center">
-  <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=X1ag&show=reviews,prs_merged&theme=light&show_icons=true&cache_seconds=21600" alt="GitHub Stats">
-  </a>
-</p>  
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=x1ag)](https://github.com/anuraghazra/github-readme-stats)
   <div id='badges'>
     <a href='t.me/imx1ag'>
     <img src='https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge' alt='Telegram'/>
