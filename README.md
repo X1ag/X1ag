@@ -1,5 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=x1ag)](https://github.com/anuraghazra/github-readme-stats)
 <div id="header" align="center">
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=x1ag)](https://github.com/anuraghazra/github-readme-stats)
   <div id='badges'>
     <a href='t.me/imx1ag'>
     <img src='https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge' alt='Telegram'/>
