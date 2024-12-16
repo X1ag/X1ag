@@ -1,5 +1,9 @@
 <div id="header" align="center">
-  <img src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXk3MnlqYTMwd3pzbzQ3c2Fkd2F1aWQxa3Rkbmt5dXh3dXUyaTRidCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif' width='200'/>
+  <p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=An0nX&show=reviews,prs_merged&theme=dark&show_icons=true&cache_seconds=21600" alt="GitHub Stats">
+  </a>
+</p>  
   <div id='badges'>
     <a href='t.me/imx1ag'>
     <img src='https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge' alt='Telegram'/>
